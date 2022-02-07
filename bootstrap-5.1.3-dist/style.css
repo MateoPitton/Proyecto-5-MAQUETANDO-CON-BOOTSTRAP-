@@ -1,0 +1,7 @@
+header{
+    display: flex;
+    background-image: linear-gradient(yellow, green);
+}
+ul li{
+    display: inline-block;
+}
